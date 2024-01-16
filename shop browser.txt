@@ -69,6 +69,7 @@ img{
     padding-right: 10px;
     color: #575656;
     cursor: pointer;
+    
 }
 
         /* navbar */
